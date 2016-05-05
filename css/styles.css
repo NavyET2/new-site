@@ -21,13 +21,38 @@ p.author {
   font-family: monospace;
 }
 
-.column {
-  width: 25%;
+.column1 {
+  width: 18%;
   float: left;
+  background-color: lightcoral;
+  padding: 10px;
+}
+
+.column2 {
+  width: 18%;
+  float: left;
+  background-color: deepskyblue;
+  padding: 10px;
+}
+
+.column3 {
+  width: 18%;
+  float: left;
+  background-color: darkorchid;
+  padding: 10px;
+}
+
+.column4 {
+  width: 18%;
+  float: left;
+  background-color: lightseagreen;
+  padding: 10px;
 }
 
 .float-left {
   float: left;
+  margin: 10px;
+  padding-right: 2px;
 }
 
 .sidebar {
@@ -43,4 +68,12 @@ p.author {
   border: 2px solid green;
   padding: 4px;
   background-color: orange;
+}
+
+.header-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
