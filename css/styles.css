@@ -34,4 +34,13 @@ p.author {
   width: 30%;
   float: right;
   background-color: pink;
+  border: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.side2 {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
 }
