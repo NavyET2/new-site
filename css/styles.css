@@ -22,28 +22,28 @@ p.author {
 }
 
 .column1 {
-  width: 18%;
+  width: 21%;
   float: left;
   background-color: lightcoral;
   padding: 10px;
 }
 
 .column2 {
-  width: 18%;
+  width: 21%;
   float: left;
   background-color: deepskyblue;
   padding: 10px;
 }
 
 .column3 {
-  width: 18%;
+  width: 21%;
   float: left;
   background-color: darkorchid;
   padding: 10px;
 }
 
 .column4 {
-  width: 18%;
+  width: 21%;
   float: left;
   background-color: lightseagreen;
   padding: 10px;
